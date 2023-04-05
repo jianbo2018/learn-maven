@@ -4,7 +4,7 @@
 
     <groupId>com.fan.learn</groupId>
     <artifactId>learn-maven</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <modules>
         <module>release-plugin</module>
     </modules>
