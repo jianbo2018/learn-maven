@@ -21,17 +21,4 @@
             <artifactId>spring-boot-starter-webflux</artifactId>
         </dependency>
     </dependencies>
-
-    <distributionManagement>
-        <repository>
-            <id>release</id>
-            <name>release</name>
-            <url>http://192.168.1.6:8081/repository/jianbo-release/</url>
-        </repository>
-        <snapshotRepository>
-            <id>snapshot</id>
-            <name>snapshot</name>
-            <url>http://192.168.1.6:8081/repository/jianbo-snapshot/</url>
-        </snapshotRepository>
-    </distributionManagement>
 </project>
