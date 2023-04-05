@@ -4,14 +4,14 @@
 
     <groupId>com.fan.learn</groupId>
     <artifactId>learn-maven</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <modules>
         <module>release-plugin</module>
     </modules>
     <packaging>pom</packaging>
     <scm>
         <developerConnection>scm:git:git@github.com:jianbo2018/learn-maven.git</developerConnection>
-        <tag>learn-maven-1.1</tag>
+        <tag>learn-maven-1.0</tag>
     </scm>
 
     <properties>
