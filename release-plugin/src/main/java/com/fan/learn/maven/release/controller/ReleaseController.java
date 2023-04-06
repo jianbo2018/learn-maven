@@ -20,6 +20,11 @@ import java.util.concurrent.TimeUnit;
 @RestController
 public class ReleaseController {
 
+    /**
+     * 注释1
+     * @param name
+     * @return
+     */
     @GetMapping("/mvn/plugin/release")
     public Mono<String> helloRelease(@RequestParam(required = false) String name) {
         return Mono.defer(() -> Mono.just("hello," + Optional.ofNullable(name).orElse("jianbo")));
