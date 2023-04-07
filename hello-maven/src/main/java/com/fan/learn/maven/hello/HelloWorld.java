@@ -8,6 +8,10 @@ package com.fan.learn.maven.hello;
  *
  */
 public class HelloWorld {
+    /**
+     * add some desc for test
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println("hello world");
     }
