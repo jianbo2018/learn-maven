@@ -10,6 +10,7 @@ package com.fan.learn.maven.hello;
 public class HelloWorld {
     /**
      * add some desc for test
+     * add again
      * @param args
      */
     public static void main(String[] args) {
