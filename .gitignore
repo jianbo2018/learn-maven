@@ -1,2 +1,5 @@
 # Project exclude paths
-/release-plugin/target/
+/release-plugin/target/**
+/hello-maven/target/**
+/target/**
+/.idea/**
