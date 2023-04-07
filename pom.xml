@@ -4,7 +4,7 @@
 
     <groupId>com.fan.learn</groupId>
     <artifactId>learn-maven</artifactId>
-    <version>1.5</version>
+    <version>1.6-SNAPSHOT</version>
     <modules>
         <module>release-plugin</module>
         <module>hello-maven</module>
@@ -12,7 +12,7 @@
     <packaging>pom</packaging>
     <scm>
         <developerConnection>scm:git:git@github.com:jianbo2018/learn-maven.git</developerConnection>
-        <tag>learn-maven-1.5</tag>
+        <tag>learn-maven-1.0</tag>
     </scm>
 
     <properties>
